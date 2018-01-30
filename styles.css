@@ -76,16 +76,17 @@ button:hover {
 nav {
 	position: relative;
     height: 65px;
-    width: 110%;
+    width: 102%;
     text-align: center;
     margin: auto;
     background: white;
     border: 10px;
     z-index: 0;
     margin-top: -10px;
-    margin-left: -10px;
-    margin-right: -10px;
+    margin-left: -16px;
+    margin-right: 0px;
     padding-top: 5px;
+    padding-left: 40px;
 }
 
 main img {
